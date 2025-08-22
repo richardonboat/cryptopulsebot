@@ -4,6 +4,7 @@
   "scripts": {
     "build": "turbo run generate && turbo run build",
     "start": "node packages/cli/dist/index.js serve",
+    "serve": "node ./packages/cli/dist/index.js serve",
     "bump": "depsynky bump --ignore-dev && pnpm -w install",
     "test": "vitest --run",
     "check:bplint": "turbo check:bplint",
