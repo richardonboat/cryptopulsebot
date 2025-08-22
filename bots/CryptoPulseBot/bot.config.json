@@ -1,0 +1,7 @@
+{
+  "id": "CryptoPulseBot",
+  "name": "CryptoPulseBot",
+  "version": "1.0.0",
+  "description": "Crypto price and whale alert bot",
+  "disabled": false
+}
