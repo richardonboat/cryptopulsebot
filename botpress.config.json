@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/botpress/botpress/master/packages/cli/schemas/botpress.schema.json",
+  "bots": [
+    {
+      "id": "CryptoPulseBot",
+      "path": "bots/CryptoPulseBot"
+    }
+  ],
+  "version": "4.17.3",
+  "httpServer": {
+    "host": "0.0.0.0",
+    "port": 3000,
+    "externalUrl": "https://cryptopulsebot.koyeb.app"
+  }
+}
